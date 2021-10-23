@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @lovelittlelemon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @lovelittlelemon
 
-<!---
-lovelittlelemon/lovelittlelemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 I love learning new things and expressing myself in different ways
+
+## 👀 Currently i’m interested in everything JavaScript
+
+## 💞️ Find me on [Only Fans](https://onlyfans.com/lovelittlelemon)
+
+## ✨ Don't be shy, say hi 😘 ✨ 
+
